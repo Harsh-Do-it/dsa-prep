@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0209-minimum-size-subarray-sum) |
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0904-fruit-into-baskets) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0867-transpose-matrix) |
