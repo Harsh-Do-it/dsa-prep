@@ -35,6 +35,7 @@
 | [0904-fruit-into-baskets](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1763-longest-nice-substring](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1763-longest-nice-substring) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harsh-Do-it/dsa-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
@@ -48,6 +49,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1763-longest-nice-substring](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1763-longest-nice-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0904-fruit-into-baskets) |
+| [1763-longest-nice-substring](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1763-longest-nice-substring) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harsh-Do-it/dsa-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -98,4 +101,12 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0594-longest-harmonious-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1763-longest-nice-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
