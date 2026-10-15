@@ -16,6 +16,7 @@
 | [0867-transpose-matrix](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1004-max-consecutive-ones-iii) |
+| [1652-defuse-the-bomb](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harsh-Do-it/dsa-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -35,6 +36,7 @@
 | [0904-fruit-into-baskets](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1763-longest-nice-substring) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harsh-Do-it/dsa-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
