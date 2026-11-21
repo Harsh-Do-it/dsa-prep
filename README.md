@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0059-spiral-matrix-ii) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh-Do-it/dsa-prep/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harsh-Do-it/dsa-prep/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
